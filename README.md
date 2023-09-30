@@ -1,10 +1,10 @@
-# 🎨 Discord Banner Bot v13
+# 🎨 Discord Boş Bot Altyapısı v13
 
-> Botu önceden yapmıştık zaten ama paylaşmamıştık, şimdi github hesabımda
+> Botu önceden yapmıştık zaten ama paylaşmamıştık, şimdi github hesabımda bulunmakta.
 
  > **Botun Bazı Özellikleri;** 
 
-- Dil Değiştirme Sistemi -  (Language change system)
-- Prefix Değiştirme Sistemi - (Prefix change System)
-- İstediğin kişinin bannerini çekme - (Steal the banner users) 
-- Daha ne bekliyorsun haydi botu kuramaya ve kullanmaya başla basss  - (What are you waiting for, start building and using the bot?!)
+- İçinde 5 tane örnek komut bulunuyor.
+- Altyapı çalışıyor. (Denendi onaylandı.)
+- Altyapıyı kendimiz oluşturduk, forklamayı unutmayın.
+- Node v18 Sürümünü kullanın. (Önerilen)
