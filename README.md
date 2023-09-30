@@ -1,6 +1,6 @@
 # 🎨 Discord Boş Bot Altyapısı v13
 
-> Botu önceden yapmıştık zaten ama paylaşmamıştık, şimdi github hesabımda bulunmakta.
+> Botu önceden yapmıştım zaten ama paylaşmamıştım, şimdi github hesabımda bulunmakta.
 
  > **Botun Bazı Özellikleri;** 
 
