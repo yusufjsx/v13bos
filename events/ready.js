@@ -6,7 +6,7 @@ module.exports = {
         client.user.setPresence({
             activities: [
                 {
-                    name: `Github.com YusufJS`,
+                    name: `Github.com yusufjsx`,
                     type: "PLAYING"
                 }
             ],
